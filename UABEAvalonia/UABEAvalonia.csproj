@@ -6,6 +6,7 @@
     <Platforms>AnyCPU;x64;x86</Platforms>
     <ApplicationIcon>uabeavalonia.ico</ApplicationIcon>
     <PublishAot>true</PublishAot>
+	<AssemblyName>UABEACascade</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
