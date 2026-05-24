@@ -1,12 +1,16 @@
-<p align="center"><img src="UABEAvalonia/Assets/logo.png" /></p>
+# UABEA
 
-**Quick Downloads:**
+## UABEANext (https://github.com/nesrak1/UABEANext)
+
+[Latest Nightly (Windows)](https://nightly.link/nesrak1/UABEANext/workflows/build-windows/master/uabea-windows.zip) | [Latest Nightly (Linux)](https://nightly.link/nesrak1/UABEANext/workflows/build-ubuntu/master/uabea-ubuntu.zip)
+
+The new version of UABEA with docking and multi-bundle opening. Still a work in progress.
+
+## UABEA original
 
 [Latest Nightly (Windows)](https://nightly.link/nesrak1/UABEA/workflows/dotnet-desktop/master/uabea-windows.zip) | [Latest Nightly (Linux)](https://nightly.link/nesrak1/UABEA/workflows/dotnet-ubuntu/master/uabea-ubuntu.zip) | [Latest Release](https://github.com/nesrak1/UABEA/releases)
 
 [![GitHub issues](https://img.shields.io/github/issues/nesrak1/UABEA?logo=GitHub&style=flat-square)](https://github.com/nesrak1/UABEA/issues) [![discord](https://img.shields.io/discord/862035581491478558?label=discord&logo=discord&logoColor=FFFFFF&style=flat-square)](https://discord.gg/hd9VdswwZs)
-
-## UABEAvalonia
 
 Cross-platform Asset Bundle/Serialized File reader and writer. Originally based on (but not a fork of) [UABE](https://github.com/SeriousCache/UABE).
 
