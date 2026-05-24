@@ -86,6 +86,12 @@
         <Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Content="Import Dump" Name="btnImportDump" Margin="5"/>
         <Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Content="Export Dump" Name="btnExportDump" Margin="5"/>
 
+		<Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Content="Cascade Export" Name="btnCascadeExportDump" Margin="5"/>
+		<Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Content="Cascade Import" Name="btnCascadeImportDump" Margin="5"/>
+
+		<Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Content="Batch Export Img" Name="btnBatchExportImages" Margin="5"/>
+		<Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Content="Batch Import Img" Name="btnBatchImportImages" Margin="5"/>
+
         <Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Content="Edit Data" Name="btnEditData" Margin="5"/>
         <Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Content="Remove" Name="btnRemove" Margin="5"/>
       </UniformGrid>
