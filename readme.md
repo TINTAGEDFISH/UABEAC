@@ -23,4 +23,3 @@ UABEAC 中的 **C** 代表 **Cascade（级联）**。
 
 - **GitHub**: https://github.com/nesrak1/UABEA
 - **许可证**: [MIT License](LICENSE)
-- **Issues / 反馈**: 请前往原项目提交
